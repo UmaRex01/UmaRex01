@@ -5,5 +5,5 @@
 
 <div align="center" style="vertical-align:bottom;">
   <a href="https://twitter.com/UmaRex01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="UmaRex01" height="30" width="40" /></a>
-  <a href="https://medium.com/UmaRex01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="UmaRex01" height="30" width="40" /></a>
+  <a href="https://medium.com/@umarex01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="UmaRex01" height="30" width="40" /></a>
 </div>
