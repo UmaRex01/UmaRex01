@@ -1,11 +1,9 @@
 # Umarex
 
-## Latest Research
-
-### 2025
-*working on it...*
-
-### 2024
+### Latest Research
+#### 2025
+- TODO
+#### 2024
 - <a href="https://infosecwriteups.com/hit-and-run-a-novel-syscall-method-for-bypassing-edrs-via-veh-and-call-stack-theft-e2f399d71eeb" target="blank">Hit-And-Run: A Novel Syscall Method</a>
 - <a href="https://infosecwriteups.com/t-rop-h-thread-hijacking-without-executable-memory-allocation-d746c102a9ca" target="blank">(T(ROP)H: Thread Hijacking with ROP</a>
 
