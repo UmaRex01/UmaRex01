@@ -1,7 +1,13 @@
-<div align="center" style="vertical-align:bottom;">
-  <a href="https://twitter.com/UmaRex01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="UmaRex01" height="30" width="40" /></a>
-  <a href="https://medium.com/@umarex01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="UmaRex01" height="30" width="40" /></a>
-</div>
+# Umarex
+
+## Latest Research
+
+### 2025
+*working on it...*
+
+### 2024
+- <a href="https://infosecwriteups.com/hit-and-run-a-novel-syscall-method-for-bypassing-edrs-via-veh-and-call-stack-theft-e2f399d71eeb" target="blank">Hit-And-Run: A Novel Syscall Method</a>
+- <a href="https://infosecwriteups.com/t-rop-h-thread-hijacking-without-executable-memory-allocation-d746c102a9ca" target="blank">(T(ROP)H: Thread Hijacking with ROP</a>
 
 ## Github stats
 
@@ -16,3 +22,10 @@
   </a>
   
 </p>
+
+## Social
+
+<div align="center" style="vertical-align:bottom;">
+  <a href="https://twitter.com/UmaRex01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="UmaRex01" height="30" width="40" /></a>
+  <a href="https://medium.com/@umarex01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="UmaRex01" height="30" width="40" /></a>
+</div>
